@@ -1,0 +1,8 @@
+name: conda
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - python
+  - ipykernel
+prefix: /home/holm/miniconda3/envs/conda
